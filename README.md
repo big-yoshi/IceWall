@@ -1,5 +1,6 @@
 # IceWall
-IceWall is a multi threaded network monitor it might unorganized i made this when i was 16 if i remember found it in my old folders
+IceWall is a multi threaded network monitor listening for possible threats or malicious opened ports
+it might unorganized i made this when i was 16 if i remember found it in my old folders
 
 # What it does?
 * monitoring the network
