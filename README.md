@@ -5,3 +5,6 @@ IceWall is a multi threaded network monitor it might unorganized i made this whe
 * monitoring the network
 * listening for possible threats
 * watching the most common ports who are used by hackers ex. like 1337 etc...
+
+# How to run?
+`python Main.py`
